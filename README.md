@@ -16,7 +16,7 @@ mvn clean package
 mvn spring-boot:run
 ```
 
-Open a browser at : localhost:8080/toto
+Open a browser at : http://localhost:8080/toto
 
 result:
 
